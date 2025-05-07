@@ -3,7 +3,7 @@
 Plugin Name: Stamp Rally
 Description: 位置情報を使ってスタンプを獲得＆表示できるシステム。
 Version: 1.0
-Author: あなたの名前
+Author: koideyutaka
 */
 
 // === カスタム投稿タイプ「スタンプ地点」登録 ===
